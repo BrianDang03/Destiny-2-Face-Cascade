@@ -4,7 +4,7 @@ import cv2
 def detect_destiny_face(reference_video):
     cap = cv2.VideoCapture(reference_video)
 
-    destiny_face_cascade = cv2.CascadeClassifier('destiny_face_cascade/classifier/cascade.xml')
+    destiny_face_cascade = cv2.CascadeClassifier('../destiny_face_cascade/classifier/cascade.xml')
 
     while True:
         ret, frame = cap.read()

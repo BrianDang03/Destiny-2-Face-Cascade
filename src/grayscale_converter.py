@@ -2,10 +2,7 @@ import cv2
 import os
 
 def convert_images_to_gray(source_folder, target_folder):
-    # Create target folder if it doesn't exist
-    if not os.path.exists(target_folder):
-        os.makedirs(target_folder)
-
+    
     # Iterate over all files in the source folder
     for filename in os.listdir(source_folder):
         # Define full path of source and target files
