@@ -2,9 +2,10 @@
 
 Create a Haar Cascade to detect my Destiny 2 charater's face.
 
+## Table of Contents
 <details>
   <summary>Click Me!</summary>
-## Table of Contents
+  
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
