@@ -1,6 +1,6 @@
 # Destiny 2 Face Detection with OpenCV Haar Cascade 
 
-Create a Haar Cascade to detect my Destiny 2 charater's face.
+Created a Haar Cascade to detect my Destiny 2 charater's face.
 
 ## Table of Contents
 <details>
@@ -17,3 +17,4 @@ Create a Haar Cascade to detect my Destiny 2 charater's face.
 ---
 
 ## Overview
+The goal of this project is to detect my Destiny 2 Charater's face. This project is for me to have fun and explore what OpenCV has to offer.          
