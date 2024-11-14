@@ -9,7 +9,7 @@ Created a Haar Cascade to detect my Destiny 2 charater's face.
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Fetures](#features)
+- [Features](#features)
 - [Acknowledgments](#acknowledgments)
 
 </details>
@@ -21,3 +21,18 @@ This project aims to detect the face of my Destiny 2 character in video frames, 
 ![image](https://github.com/user-attachments/assets/2ce41da6-8c15-4264-836b-3a627c2fe187)
 ![Screenshot 2024-11-08 120939](https://github.com/user-attachments/assets/4e13d20f-8c9a-41da-8eaf-7c111f6d0289)
 
+---
+
+## Installation
+
+---
+
+## Usage
+
+---
+
+## Features
+
+---
+
+## Acknowledgments
