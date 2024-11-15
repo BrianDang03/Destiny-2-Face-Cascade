@@ -8,6 +8,7 @@ Created a Haar Cascade to detect my Destiny 2 charater's face.
   
 - [Overview](#overview)
 - [Installation](#installation)
+- [Tools and Technologies](#tools-and-technologies)
 - [Usage](#usage)
 - [Features](#features)
 - [Acknowledgments](#acknowledgments)
@@ -37,6 +38,12 @@ cd Destiny-2-Face-Cascade
 ```
 pip install -r requirements.txt
 ```
+
+
+## Tools and Technologies
+- **Programming Language**: Python
+- **Libraries**: OpenCV, NumPy
+- **Model Training**: Cascade Trainer GUI
 
 ## Usage
 
