@@ -55,7 +55,9 @@ python main.py
 ## Scripts
 1. main.py: Driver of the program.
 2. grayscale_converter.py: Converts all negative and postive samples under the assets/negative_sample and assets/positive_sample folder into grey scale images.
-3.     
+3. resize_images.py: Converts all positive grey scaled images under the destiny_face_cascade/p folder to desired size.
+    
 ---
 
 ## Acknowledgments
+
