@@ -69,5 +69,5 @@ python main.py
 ---
 
 ## Acknowledgments
-Cascade Trainer GUI by Amin Ahmadi: ```https://amin-ahmadi.com/cascade-trainer-gui/#google_vignette```. The application created by Amin helped me train the model that recognizes my Destiny 2 charater's face.    
+[Cascade Trainer GUI](https://amin-ahmadi.com/cascade-trainer-gui/#google_vignette) by Amin Ahmadi: The application created by Amin helped me train the model that recognizes my Destiny 2 charater's face.    
 
