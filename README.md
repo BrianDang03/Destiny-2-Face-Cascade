@@ -38,7 +38,7 @@ cd Destiny-2-Face-Cascade
 pip install -r requirements.txt
 ```
 
-## Scripts
+## Usage
 
 1. After successfully installing dependencies, change to the src directory.
 ```
@@ -52,7 +52,7 @@ python main.py
 
 ---
 
-## Features
+## Scripts
 1. main.py: Driver of the program.
 2. grayscale_converter.py: Converts all negative and postive samples under the assets/negative_sample and assets/positive_sample folder into grey scale images.
 3.     
