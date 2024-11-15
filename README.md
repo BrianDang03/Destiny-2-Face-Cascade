@@ -26,6 +26,9 @@ This project aims to detect the face of my Destiny 2 character in video frames, 
 ## Installation
 1. Create a new directory or folder.
 2. Use Github Desktop or git clone to pull the repository to the new directory or folder.
+```
+git clone https://github.com/BrianDang03/Destiny-2-Face-Cascade.git
+```
 3. Use the terminal and change to the Destiny-2-Face-Cascade directory. 
 ```
 cd Destiny-2-Face-Cascade
@@ -35,7 +38,7 @@ cd Destiny-2-Face-Cascade
 pip install -r requirements.txt
 ```
 
-## Usage
+## Scripts
 
 1. After successfully installing dependencies, change to the src directory.
 ```
@@ -50,7 +53,9 @@ python main.py
 ---
 
 ## Features
-
+1. main.py: Driver of the program.
+2. grayscale_converter.py: Converts all negative and postive samples under the assets/negative_sample and assets/positive_sample folder into grey scale images.
+3.     
 ---
 
 ## Acknowledgments
