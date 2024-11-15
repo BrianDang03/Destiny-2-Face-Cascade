@@ -27,7 +27,7 @@ This project aims to detect the face of my Destiny 2 character in video frames, 
 ## Tools and Technologies
 - **Programming Language**: Python
 - **Libraries**: OpenCV, NumPy
-- **Model Training**: Cascade Trainer GUI
+- **Model Training**: [Cascade Trainer GUI](https://amin-ahmadi.com/cascade-trainer-gui/#google_vignette)
 
 ---
 
