@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 1. After successfully installing dependencies, change to the src directory.
 ```
-cd Destiny-2-Face-Cascade/src
+cd src
 ```
 
 2.  Run the main.py file.
