@@ -29,7 +29,7 @@ This project aims to detect the face of my Destiny 2 character in video frames, 
 ```
 git clone https://github.com/BrianDang03/Destiny-2-Face-Cascade.git
 ```
-3. Use the terminal and change to the Destiny-2-Face-Cascade directory. 
+3. Use can use the terminal to change to the Destiny-2-Face-Cascade directory. 
 ```
 cd Destiny-2-Face-Cascade
 ```  
