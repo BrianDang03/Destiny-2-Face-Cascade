@@ -24,10 +24,28 @@ This project aims to detect the face of my Destiny 2 character in video frames, 
 ---
 
 ## Installation
-
----
+1. Create a new directory or folder.
+2. Use Github Desktop or git clone to pull the repository to the new directory or folder.
+3. Use the terminal and change to the Destiny-2-Face-Cascade directory. 
+```
+cd Destiny-2-Face-Cascade
+```  
+4. Use and activate venv or local machine to pip install dependencies.
+```
+pip install -r requirements.txt
+```
 
 ## Usage
+
+1. After successfully installing dependencies, change to the src directory.
+```
+cd Destiny-2-Face-Cascade/src
+```
+
+2.  Run the main.py file.
+```
+python main.py
+```
 
 ---
 
