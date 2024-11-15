@@ -8,6 +8,9 @@ def detect_destiny_face(reference_video):
 
     while True:
         ret, frame = cap.read()
+
+        if not ret or frame is None:
+            break
     
         # Image, Scale Factor: 1.3 shrinks image down, min neighbors: multi rectangles how accurate do I have to be, minSize: how small the object is, maxSize: how big the object is.   
         faces = destiny_face_cascade.detectMultiScale(frame, 1.15, 3)
